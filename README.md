@@ -8,12 +8,6 @@ Here, on this profile you can check some projects that i have done using Docker,
 
 You can contact me at ismcondan2019@gmail.com or on my [Linkedin](https://www.linkedin.com/in/ismaeldantas/)
 
-<div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=IsmaelDantas&show_icons=true&theme=radical" /> <br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelDantas&layout=compact" />
-</div>
-<br>
-
 **Main Technolgies** 
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
