@@ -6,8 +6,7 @@ I'm a Brazilian computer engineering student at **UNINTER** (Centro Universitár
 
 Here, on this profile you can check some projects that i have done using Docker, MySQL, Node.JS, React and more! Make yourself at home.
 
-**My main Technolgies:** 
-<br>
+<h3> My main technologies:<h3>
 <span>
   <img src="https://img.shields.io/badge/Base:-E6E6E6?style=for-the-badge" alt="Base" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Shield" />
